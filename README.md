@@ -12,3 +12,7 @@ Excel Technical Stack & Concepts Used-
 3. Data Transformation
 4. Dynamic Pivot Tables
 5. Interactive Dashboard UI
+
+Dashboard Preview: 
+<img width="1208" height="671" alt="Screenshot 2026-05-23 125851" src="https://github.com/user-attachments/assets/0eb3d8ed-99d0-4e1a-88a1-c68b16024250" />
+
